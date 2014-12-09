@@ -74,7 +74,7 @@
 //
 
 // This exit is to avoid malicious use of this script.
-exit;
+//exit;
 
 require_once(dirname(__FILE__).'/../../../library/classes/Installer.class.php');
 require_once(dirname(__FILE__).'/../../../library/authentication/password_hashing.php');
